@@ -30,8 +30,9 @@ Master of Science in Management from **Stanford Graduate School of Business** an
 
 ---
 
-### Research & Patents
+### Research, Writing & Patents
 
+- **Essay & Audio Edition (Nov 2026):** [Africa’s Biggest AI Bottleneck](https://njenga.ai/writing/africa-ai-bottleneck/) — Why a shared, testable definition of good AI comes ahead of power, data centres, and capital, with a five-layer AI sovereignty stack, mobile-money agentic rail analysis, and 22 primary sources ([19-min audio](https://njenga.ai/audio/africa-ai-bottleneck.mp3))
 - **Stanford AI Institute (HAI):** Published research on AI's global economic impact — [AI Index Report 2025, Chapter 4: Economy](https://hai.stanford.edu/assets/files/hai_ai-index-report-2025_chapter4_final.pdf) (2025) — [Summary](https://njenga.ai/ai-index-2025/)
 - **U.S. Patents (6):** [US11393462B1](https://patents.google.com/patent/US11393462B1/en) · [US11430467B1](https://patents.google.com/patent/US11430467B1/en) · [US11462218B1](https://patents.google.com/patent/US11462218B1/en) · [US11632456B1](https://patents.google.com/patent/US11632456B1/en) · [US11783834B1](https://patents.google.com/patent/US11783834B1/en) · [US12586583B1](https://patents.google.com/patent/US12586583B1/en)
-- **Full Career Portfolio & Principles:** [njenga.ai](https://njenga.ai/) · [njenga.ai/about/](https://njenga.ai/about/) · [llms.txt](https://njenga.ai/llms.txt)
+- **Full Career Portfolio & Writing:** [njenga.ai](https://njenga.ai/) · [njenga.ai/writing/](https://njenga.ai/writing/) · [njenga.ai/about/](https://njenga.ai/about/) · [llms.txt](https://njenga.ai/llms.txt)
