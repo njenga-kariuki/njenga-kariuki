@@ -2,7 +2,7 @@
 
 AI executive leading AI transformation across **Vodacom FinTech Group**, including **M-PESA Africa** (100M+ customers across eight African markets, $2B+ revenue), reporting to the CEO and building the group's AI Center of Excellence.
 
-Previously spent 12 years building AI products and organizations from zero to one at **Amazon** and **AWS** in the United States—from Alexa Shopping and Amazon Halo to Amazon Health AI ($100M+/yr computer vision and AI portfolio) and **Amazon Bio Discovery** (Head of Product, AWS Applied AI, Life Sciences; 100+ engineers, scientists, and product managers).
+Previously spent 12 years in the United States at **Amazon** and **AWS** building and scaling AI-native businesses and products from zero to one across software, hardware, and mobile applications spanning e-commerce, IoT, connected devices, supply chain, health, and life sciences. Led large-scale science, engineering, and product organizations of 100+, directed $100M+ AI portfolios and businesses up to $700M, and delivered frontier machine learning, computer vision, and LLM capabilities at global scale—most recently leading product for **Amazon Bio Discovery**, an agentic AI platform for drug discovery.
 
 Master of Science in Management from **Stanford Graduate School of Business** and published researcher at the **Stanford Institute for Human-Centered Artificial Intelligence (Stanford HAI)** on AI's global economic impact (Chapter 4: Economy of the *AI Index Report 2025*, cited by the Federal Reserve Board and the White House Council of Economic Advisers). Named inventor on six U.S. patents.
 
@@ -13,7 +13,7 @@ Master of Science in Management from **Stanford Graduate School of Business** an
 ### Focus
 
 - **Enterprise AI Transformation (Africa & Global):** Moving AI from isolated single-task pilots (*units of work*) to cross-functional workflows redesigned end to end (*systems of work*), measured against comparison groups and governed with legal, risk, and compliance sign-off across Kenya, Tanzania, Ethiopia, the DRC, Mozambique, Lesotho, South Africa, and Egypt.
-- **Agentic & Applied AI Products:** Zero-to-one leadership across agentic AI for drug discovery (Amazon Bio Discovery), clinical computer vision (Amazon Health AI / Halo Body & Movement — three validation studies in *npj Digital Medicine*), voice AI (Halo Tone — six U.S. patents; Alexa Shopping), and spatial smart home AI (Alexa Map View).
+- **Agentic & Applied AI Products:** Zero-to-one leadership across agentic AI for drug discovery (Amazon Bio Discovery), clinical computer vision (three validation studies in *npj Digital Medicine*), voice AI and natural language understanding (six U.S. patents), and spatial/IoT consumer AI at global scale.
 - **Forward-Deployed Executive Building:** Leading at two levels—setting enterprise AI strategy with the CEO and executive team, and building first working systems hands-on alongside engineering teams.
 
 ---
