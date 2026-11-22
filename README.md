@@ -4,7 +4,7 @@ AI executive leading AI transformation across **Vodacom FinTech Group**, includi
 
 Previously spent 12 years building AI products and organizations from zero to one at **Amazon** and **AWS** in the United States—from Alexa Shopping and Amazon Halo to Amazon Health AI ($100M+/yr computer vision and AI portfolio) and **Amazon Bio Discovery** (Head of Product, AWS Applied AI, Life Sciences; 100+ engineers, scientists, and product managers).
 
-Master of Science in Management from **Stanford Graduate School of Business** (MSx '25) and author of **Chapter 4: Economy** of the **Stanford HAI AI Index Report 2025** (cited by the Federal Reserve Board and the White House Council of Economic Advisers). Named inventor on six U.S. patents.
+Master of Science in Management from **Stanford Graduate School of Business** (MSx '25) and published researcher at the **Stanford Institute for Human-Centered Artificial Intelligence (Stanford HAI)** on AI's global economic impact (Chapter 4: Economy of the *AI Index Report 2025*, cited by the Federal Reserve Board and the White House Council of Economic Advisers). Named inventor on six U.S. patents.
 
 **Website:** [njenga.ai](https://njenga.ai/) · **LinkedIn:** [linkedin.com/in/njengakariuki](https://www.linkedin.com/in/njengakariuki/) · **Contact:** njenga@alumni.stanford.edu
 
@@ -32,6 +32,6 @@ Master of Science in Management from **Stanford Graduate School of Business** (M
 
 ### Research & Patents
 
-- **Stanford HAI:** [AI Index Report 2025, Chapter 4: Economy](https://hai.stanford.edu/assets/files/hai_ai-index-report-2025_chapter4_final.pdf) (2025) — [Summary](https://njenga.ai/ai-index-2025/)
+- **Stanford AI Institute (HAI):** Published research on AI's global economic impact — [AI Index Report 2025, Chapter 4: Economy](https://hai.stanford.edu/assets/files/hai_ai-index-report-2025_chapter4_final.pdf) (2025) — [Summary](https://njenga.ai/ai-index-2025/)
 - **U.S. Patents (6):** [US11393462B1](https://patents.google.com/patent/US11393462B1/en) · [US11430467B1](https://patents.google.com/patent/US11430467B1/en) · [US11462218B1](https://patents.google.com/patent/US11462218B1/en) · [US11632456B1](https://patents.google.com/patent/US11632456B1/en) · [US11783834B1](https://patents.google.com/patent/US11783834B1/en) · [US12586583B1](https://patents.google.com/patent/US12586583B1/en)
 - **Full Career Portfolio & Principles:** [njenga.ai](https://njenga.ai/) · [njenga.ai/about/](https://njenga.ai/about/) · [llms.txt](https://njenga.ai/llms.txt)
