@@ -4,7 +4,7 @@ AI executive leading AI transformation across **Vodacom FinTech Group**, includi
 
 Previously spent 12 years building AI products and organizations from zero to one at **Amazon** and **AWS** in the United States—from Alexa Shopping and Amazon Halo to Amazon Health AI ($100M+/yr computer vision and AI portfolio) and **Amazon Bio Discovery** (Head of Product, AWS Applied AI, Life Sciences; 100+ engineers, scientists, and product managers).
 
-Master of Science in Management from **Stanford Graduate School of Business** (MSx '25) and published researcher at the **Stanford Institute for Human-Centered Artificial Intelligence (Stanford HAI)** on AI's global economic impact (Chapter 4: Economy of the *AI Index Report 2025*, cited by the Federal Reserve Board and the White House Council of Economic Advisers). Named inventor on six U.S. patents.
+Master of Science in Management from **Stanford Graduate School of Business** and published researcher at the **Stanford Institute for Human-Centered Artificial Intelligence (Stanford HAI)** on AI's global economic impact (Chapter 4: Economy of the *AI Index Report 2025*, cited by the Federal Reserve Board and the White House Council of Economic Advisers). Named inventor on six U.S. patents.
 
 **Website:** [njenga.ai](https://njenga.ai/) · **LinkedIn:** [linkedin.com/in/njengakariuki](https://www.linkedin.com/in/njengakariuki/) · **Contact:** njenga@alumni.stanford.edu
 
