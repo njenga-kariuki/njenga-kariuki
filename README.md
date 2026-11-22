@@ -6,7 +6,7 @@ Previously spent 12 years in the United States at **Amazon** and **AWS** buildin
 
 Master of Science in Management from **Stanford Graduate School of Business** and published researcher at the **Stanford Institute for Human-Centered Artificial Intelligence (Stanford HAI)** on AI's global economic impact (Chapter 4: Economy of the *AI Index Report 2025*, cited by the Federal Reserve Board and the White House Council of Economic Advisers). Named inventor on six U.S. patents.
 
-**Website:** [njenga.ai](https://njenga.ai/) · **LinkedIn:** [linkedin.com/in/njengakariuki](https://www.linkedin.com/in/njengakariuki/) · **Contact:** njenga@alumni.stanford.edu
+**Website:** [njenga.ai](https://njenga.ai/) · **LinkedIn:** [linkedin.com/in/njengakariuki](https://www.linkedin.com/in/njengakariuki/) · **ORCID:** [0009-0003-8191-2625](https://orcid.org/0009-0003-8191-2625) · **Google Scholar:** [Profile](https://scholar.google.com/citations?user=v-VqXH0AAAAJ) · **Wikidata:** [Q142243592](https://www.wikidata.org/wiki/Q142243592) · **Contact:** njenga@alumni.stanford.edu
 
 ---
 
